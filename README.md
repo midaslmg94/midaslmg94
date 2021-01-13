@@ -6,5 +6,5 @@
 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=midaslmg94&hide=stars&show_icons=true&theme=dracula)](https://github.com/midaslmg94)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=midaslmg94&hide=stars&custom_title=Welcome!&show_icons=true&theme=dracula)](https://github.com/midaslmg94)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midaslmg94&layout=compact)](https://github.com/midaslmg94)
