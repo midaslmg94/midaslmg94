@@ -2,8 +2,9 @@
 
 ## midaslmg : Back-end, Devops
 
-- Backend, Devops Engineer가 되기 위해 공부중입니다.
-- 1일 1커밋을 실천하기 위해 노력중입니다
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=midaslmg94&hide=stars&show_icons=true&theme=dracula)](https://github.com/midaslmg94)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midaslmg94&layout=compact)](https://github.com/midaslmg94)
 
 ## Stack
 
